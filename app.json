@@ -3,6 +3,7 @@
     "name": "all-in-chat",
     "slug": "all-in-chat",
     "version": "1.0.0",
+    "icon": "./assets/Icon.png",
     "assetBundlePatterns": [
       "**/*"
     ]
